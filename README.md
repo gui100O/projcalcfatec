@@ -1,1 +1,3 @@
 # projcalcfatec
+
+O NOME DA PASTA É PROJCALC (TUDO MINÚSCULO)
