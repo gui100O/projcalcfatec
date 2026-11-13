@@ -1,7 +1,0 @@
-Casos de Teste: SOMAR NÚMEROS INTEIROS
-RESUMO: este caso de teste deve verificar a execução da função SOMAR  que receberá dois números inteiros.
-PRÉ-CONDIÇÃO: visor estar limpo
-ENTRADAS: v1 = 2, v2= 5
-AÇÃO: informar o valor de v1, selecionar a operação SOMA ("+"), informar o valor de v2, clicar no botão igual ("=")
-RESULTADO ESPERADO: 7
-PÓS-CONDIÇÃO: 
